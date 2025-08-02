@@ -1,0 +1,14 @@
+// {
+//   "name": "Nullish Coalescing",
+//   "version": "1.0.0",
+//   "description": "",
+//   "main": "ex1.js",
+//   "type": "module",  
+//   "scripts": {
+//     "start": "node ex1.js",
+//     "test": "echo \"Error: no test specified\" && exit 1"
+//   },
+//   "keywords": [],
+//   "author": "",
+//   "license": "ISC"
+// }
