@@ -1,0 +1,10 @@
+#heading {
+    color: green !important;
+}
+
+/* Nếu không có important sẽ không chuyển sang màu xanh vì css inline được ưu tiên hơn */
+
+#heading::before {
+    content: "Hi ";
+    width: 100px;
+}
